@@ -1,0 +1,8 @@
+盲道：blind_path
+井盖：well_lid
+上楼梯：upstairs
+下楼梯：downstairs
+盲道阻碍：barrier
+水坑： water
+草地：grass
+木板：wood
