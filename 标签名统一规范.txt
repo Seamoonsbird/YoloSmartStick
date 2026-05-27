@@ -1,5 +1,6 @@
 盲道：blind_path
 井盖：well_lid
+人行横道：crosswalk
 上楼梯：upstairs
 下楼梯：downstairs
 盲道阻碍：barrier
