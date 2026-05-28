@@ -13,6 +13,6 @@ from ultralytics import YOLO
 # 关键：将训练逻辑放入这个判断语句中
 if __name__ == '__main__':
     # 加载模型
-    model = YOLO('yolo11n-seg.pt')
+    model = YOLO('yolo26n-seg.pt')
     # 开始训练
-    results = model.train(data='data\dataset.yaml', epochs=100)
+    results = model.train(data='data\dataset.yaml', epochs=100, batch=8)
